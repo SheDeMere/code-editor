@@ -1,0 +1,9 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right_block {
+    flex: 1;
+    border-left: 2px solid #333;
+}
